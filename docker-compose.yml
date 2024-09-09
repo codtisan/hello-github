@@ -1,4 +1,4 @@
 services:
-  api:
+  service:
     container_name: hello-github
     build: .
